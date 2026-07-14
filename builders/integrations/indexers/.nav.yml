@@ -2,6 +2,7 @@ title: Indexers
 hide: false
 nav:
   - index.md
+  - 'Envio': 'envio.md'
   - 'GoldRush API': 'covalent.md'
   - 'SubQuery': 'subquery.md'
   - 'SQD': 'subsquid.md'
