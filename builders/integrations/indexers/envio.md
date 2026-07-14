@@ -8,7 +8,7 @@ categories: Indexers and Queries
 
 ## Introduction {: #introduction }
 
-[Envio](https://envio.dev/?utm_source=moonbeam&utm_medium=partner-docs){target=\_blank} is a high-performance indexing framework that turns smart contract events into a queryable GraphQL API, with managed hosting on Envio Cloud. Envio's HyperIndex natively supports indexing any EVM chain out of the box, so you can index Moonbeam and Moonriver contract data through your own RPC endpoint and serve it to your application over GraphQL.
+[Envio](https://envio.dev/?utm_source=moonbeam&utm_medium=partner-docs){target=\_blank} is the data layer for blockchain apps. It gives Moonbeam developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud. Envio's HyperIndex natively supports indexing any EVM chain out of the box, so you can index Moonbeam and Moonriver contract data through your own RPC endpoint and serve it to your application over GraphQL.
 
 With HyperIndex you can auto-generate an indexer from any verified contract, write event handlers in TypeScript, JavaScript, or ReScript, and get reorg support, real-time and historical data, and multichain data aggregation across EVM and non-EVM networks. You can deploy your indexer to Envio Cloud with git-based deploys, monitoring, zero-downtime, and backups, or self-host.
 
