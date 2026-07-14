@@ -56,6 +56,5 @@ You can run your indexer locally, self-host it, or deploy it to [Envio Cloud](ht
 - [HyperIndex overview](https://docs.envio.dev/docs/HyperIndex/overview?utm_source=moonbeam&utm_medium=partner-docs){target=\_blank}
 - [HyperIndex quickstart](https://docs.envio.dev/docs/HyperIndex/quickstart?utm_source=moonbeam&utm_medium=partner-docs){target=\_blank}
 - [Supported networks](https://docs.envio.dev/docs/HyperIndex/supported-networks?utm_source=moonbeam&utm_medium=partner-docs){target=\_blank}
-- [Performance benchmarks](https://docs.envio.dev/docs/HyperIndex/benchmarking?utm_source=moonbeam&utm_medium=partner-docs){target=\_blank}
 
 --8<-- 'text/_disclaimers/third-party-content.md'
